@@ -6,5 +6,14 @@
 ```
 $ git clone https://github.com/KalidOp/NameFinder.git 
 ```
-# Gif
+- Run!
+```
+$ cd NameFinder
+```
+```
+$ python3 NameFinder.py
+```
 ![NameFinder](https://github.com/KalidOp/NameFinder/blob/main/Photos/vokoscreenNG-2021-04-19_08-51-40.gif)
+
+### Special Thanks :
+- [***d5tr***](https://github.com/d5tr)
